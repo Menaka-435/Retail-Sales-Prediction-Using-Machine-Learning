@@ -15,7 +15,7 @@ The XGBoost model emerged as the best-performing model, achieving **RMSE ≈ 37.
 ---
 
 ## Team Information
-| Name | Role
+| Name | Role |
 |------|
 | Ponduru Vaishnavi | Data Preprocessing & EDA 
 | Menaka Naga Sai Pothina | Feature Engineering & Modeling 
